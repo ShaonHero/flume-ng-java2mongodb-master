@@ -1,0 +1,379 @@
+2018-03-19 09:33:01 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 09:33:01 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:03 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:05 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:07 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:09 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:11 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:13 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:15 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:17 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:19 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:21 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:23 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:25 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:28 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:30 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:32 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:34 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:36 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:38 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:33:40 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:19 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 09:39:19 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:21 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:23 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:25 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:27 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:29 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:31 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:33 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:35 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:37 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:39 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:41 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:43 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:45 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:47 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:49 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:51 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:53 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:55 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:57 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:39:59 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 09:40:01 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:00:07 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 10:00:17 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 10:00:17 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:00:19 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:00:21 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:00:23 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:00:25 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:00:27 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:00:29 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:15:13 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 10:15:14 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:15:16 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:15:18 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:15:20 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:15:22 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:15:24 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:15:26 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:15:28 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:15:30 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:15:32 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 10:15:34 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:11:14 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 14:11:14 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:12:12 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 14:12:12 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:12:14 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:12:16 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:12:18 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:12:20 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:12:22 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:13:02 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 14:13:03 ConsumerConfig [INFO] ConsumerConfig values: 
+	auto.commit.interval.ms = 1000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.174.101:9092]
+	check.crcs = true
+	client.id = 
+	connections.max.idle.ms = 540000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = testConsumer
+	heartbeat.interval.ms = 3000
+	interceptor.classes = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 305000
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 30000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+
+2018-03-19 14:13:03 ConsumerConfig [INFO] ConsumerConfig values: 
+	auto.commit.interval.ms = 1000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.174.101:9092]
+	check.crcs = true
+	client.id = consumer-1
+	connections.max.idle.ms = 540000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = testConsumer
+	heartbeat.interval.ms = 3000
+	interceptor.classes = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 305000
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 30000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+
+2018-03-19 14:13:03 AppInfoParser [INFO] Kafka version : 0.10.2.0
+2018-03-19 14:13:03 AppInfoParser [INFO] Kafka commitId : 576d93a8dc0cf421
+2018-03-19 14:58:30 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 14:58:30 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:58:55 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 14:58:55 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:13 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 14:59:13 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:26 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 14:59:26 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:28 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:30 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:32 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:34 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:36 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:38 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:40 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:42 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:44 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:46 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:49 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:51 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:53 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:55 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:57 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 14:59:59 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:00:01 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:34:37 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 15:34:38 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:34:40 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:34:42 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:34:44 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:34:46 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:34:48 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:34:50 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:34:52 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:34:54 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:34:56 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:34:58 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:35:00 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:35:50 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 15:35:51 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:35:53 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:35:55 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:35:57 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:35:59 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:36:01 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:36:03 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:36:05 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:36:07 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:36:09 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:36:11 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:37:20 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 15:37:31 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 15:38:02 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 15:38:02 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:04 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:06 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:08 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:10 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:12 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:14 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:16 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:18 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:20 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:22 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:24 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:26 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:28 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:50 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 15:38:50 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:52 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:54 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:56 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:38:58 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:39:00 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:39:02 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-19 15:43:01 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-19 15:43:02 ConsumerConfig [INFO] ConsumerConfig values: 
+	auto.commit.interval.ms = 1000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.174.101:9092]
+	check.crcs = true
+	client.id = 
+	connections.max.idle.ms = 540000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = testConsumer
+	heartbeat.interval.ms = 3000
+	interceptor.classes = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 305000
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 30000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+
+2018-03-19 15:43:02 ConsumerConfig [INFO] ConsumerConfig values: 
+	auto.commit.interval.ms = 1000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.174.101:9092]
+	check.crcs = true
+	client.id = consumer-1
+	connections.max.idle.ms = 540000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = testConsumer
+	heartbeat.interval.ms = 3000
+	interceptor.classes = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 305000
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 30000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+
+2018-03-19 15:43:02 AppInfoParser [INFO] Kafka version : 0.10.2.0
+2018-03-19 15:43:02 AppInfoParser [INFO] Kafka commitId : 576d93a8dc0cf421

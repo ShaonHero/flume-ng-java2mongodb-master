@@ -1,0 +1,568 @@
+2018-03-20 09:10:51 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 09:10:52 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-20 09:10:54 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-20 09:10:56 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-20 09:10:58 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-20 09:11:00 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-20 09:11:02 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-20 09:11:04 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-20 09:11:06 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-20 09:11:08 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-20 09:11:10 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-20 09:11:12 LogDemo [INFO] {"userId":2000,"day":"2017-03-01","begintime":1488326400000,"endtime":1488327000000,"data":[{"package":"com.browser1","activetime":60000},{"package":"com.browser","activetime":120000}]}
+2018-03-20 10:09:14 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 10:09:14 LogProduce [INFO] main begin !!!!!
+2018-03-20 10:09:14 LogProduce [INFO] when you saw this ,next you will found something logs ,all logs are mark for needly to really!
+2018-03-20 10:09:14 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511754897","IP":"224.156.94.167","address":"/do/userlist","time":"2018-03-20 10:09:14","status":"200"}
+2018-03-20 10:09:15 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511755402","IP":"142.130.11.69","address":"/do/purse/{id}","time":"2018-03-20 10:09:15","status":"200"}
+2018-03-20 10:09:15 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511755905","IP":"35.151.21.44","address":"/do/userlist","time":"2018-03-20 10:09:15","status":"200"}
+2018-03-20 10:09:16 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511756410","IP":"44.101.84.17","address":"/do/productlist","time":"2018-03-20 10:09:16","status":"200"}
+2018-03-20 10:09:16 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511756912","IP":"232.246.205.232","address":"/do/purse/{id}","time":"2018-03-20 10:09:16","status":"200"}
+2018-03-20 10:09:17 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511757415","IP":"104.204.175.72","address":"/do/purse/{id}","time":"2018-03-20 10:09:17","status":"200"}
+2018-03-20 10:09:17 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511757920","IP":"172.241.4.109","address":"/do/purse/{id}","time":"2018-03-20 10:09:17","status":"200"}
+2018-03-20 10:09:18 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511758420","IP":"249.87.239.169","address":"/do/createuser","time":"2018-03-20 10:09:18","status":"200"}
+2018-03-20 10:09:18 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511758922","IP":"226.166.236.234","address":"/do/productlist","time":"2018-03-20 10:09:18","status":"200"}
+2018-03-20 10:09:19 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511759425","IP":"54.63.76.97","address":"/do/createuser","time":"2018-03-20 10:09:19","status":"408"}
+2018-03-20 10:09:19 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511759930","IP":"247.64.224.126","address":"/do/productlist","time":"2018-03-20 10:09:19","status":"200"}
+2018-03-20 10:09:20 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511760432","IP":"180.209.219.86","address":"/do/createuser","time":"2018-03-20 10:09:20","status":"200"}
+2018-03-20 10:09:20 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511760937","IP":"191.214.157.112","address":"/do/purse/{id}","time":"2018-03-20 10:09:20","status":"200"}
+2018-03-20 10:09:21 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511761442","IP":"136.64.29.45","address":"/do/purse/{id}","time":"2018-03-20 10:09:21","status":"200"}
+2018-03-20 10:09:21 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511761945","IP":"57.217.248.51","address":"/do/purse/{id}","time":"2018-03-20 10:09:21","status":"200"}
+2018-03-20 10:09:22 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511762450","IP":"130.195.119.111","address":"/do/createuser","time":"2018-03-20 10:09:22","status":"200"}
+2018-03-20 10:09:22 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511762952","IP":"36.208.159.40","address":"/do/productlist","time":"2018-03-20 10:09:22","status":"200"}
+2018-03-20 10:09:23 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511763455","IP":"111.14.221.43","address":"/do/userlist","time":"2018-03-20 10:09:23","status":"200"}
+2018-03-20 10:09:23 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511763957","IP":"44.159.88.130","address":"/do/deleteuser","time":"2018-03-20 10:09:23","status":"200"}
+2018-03-20 10:09:24 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511764460","IP":"73.17.121.206","address":"/do/purse/{id}","time":"2018-03-20 10:09:24","status":"200"}
+2018-03-20 10:09:24 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511764962","IP":"77.99.200.174","address":"/do/createuser","time":"2018-03-20 10:09:24","status":"200"}
+2018-03-20 10:09:25 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511765465","IP":"188.255.122.67","address":"/do/createuser","time":"2018-03-20 10:09:25","status":"200"}
+2018-03-20 10:09:26 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511766000","IP":"152.118.114.159","address":"/do/userlist","time":"2018-03-20 10:09:26","status":"200"}
+2018-03-20 10:09:26 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511766505","IP":"100.247.94.42","address":"/do/productlist","time":"2018-03-20 10:09:26","status":"504"}
+2018-03-20 10:09:27 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511767007","IP":"131.205.127.40","address":"/do/createuser","time":"2018-03-20 10:09:27","status":"200"}
+2018-03-20 10:09:27 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511767510","IP":"123.71.201.35","address":"/do/createuser","time":"2018-03-20 10:09:27","status":"200"}
+2018-03-20 10:09:28 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511768012","IP":"28.212.113.219","address":"/do/userlist","time":"2018-03-20 10:09:28","status":"200"}
+2018-03-20 10:09:28 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511768515","IP":"244.185.39.136","address":"/do/createuser","time":"2018-03-20 10:09:28","status":"200"}
+2018-03-20 10:09:29 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511769017","IP":"204.207.115.254","address":"/do/createuser","time":"2018-03-20 10:09:29","status":"200"}
+2018-03-20 10:09:29 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511769522","IP":"150.184.242.187","address":"/do/productlist","time":"2018-03-20 10:09:29","status":"200"}
+2018-03-20 10:09:30 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511770027","IP":"160.63.180.85","address":"/do/productlist","time":"2018-03-20 10:09:30","status":"200"}
+2018-03-20 10:09:30 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511770530","IP":"89.180.169.64","address":"/do/userlist","time":"2018-03-20 10:09:30","status":"400"}
+2018-03-20 10:09:31 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511771035","IP":"154.193.16.151","address":"/do/productlist","time":"2018-03-20 10:09:31","status":"200"}
+2018-03-20 10:09:31 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511771537","IP":"88.83.11.111","address":"/do/purse/{id}","time":"2018-03-20 10:09:31","status":"200"}
+2018-03-20 10:09:32 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511772040","IP":"52.200.2.75","address":"/do/deleteuser","time":"2018-03-20 10:09:32","status":"200"}
+2018-03-20 10:09:32 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511772545","IP":"27.78.65.244","address":"/do/userlist","time":"2018-03-20 10:09:32","status":"200"}
+2018-03-20 10:09:33 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511773047","IP":"94.132.206.124","address":"/do/deleteuser","time":"2018-03-20 10:09:33","status":"200"}
+2018-03-20 10:09:33 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511773550","IP":"58.249.71.87","address":"/do/productlist","time":"2018-03-20 10:09:33","status":"200"}
+2018-03-20 10:09:34 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511774052","IP":"247.139.193.48","address":"/do/purse/{id}","time":"2018-03-20 10:09:34","status":"200"}
+2018-03-20 10:09:34 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511774556","IP":"99.141.236.88","address":"/do/userlist","time":"2018-03-20 10:09:34","status":"200"}
+2018-03-20 10:09:35 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511775058","IP":"102.223.60.56","address":"/do/createuser","time":"2018-03-20 10:09:35","status":"200"}
+2018-03-20 10:09:35 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511775561","IP":"159.244.72.16","address":"/do/purse/{id}","time":"2018-03-20 10:09:35","status":"200"}
+2018-03-20 10:09:36 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511776063","IP":"190.74.105.14","address":"/do/productlist","time":"2018-03-20 10:09:36","status":"408"}
+2018-03-20 10:09:36 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511776566","IP":"243.79.181.182","address":"/do/userlist","time":"2018-03-20 10:09:36","status":"200"}
+2018-03-20 10:09:37 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511777066","IP":"10.45.125.54","address":"/do/userlist","time":"2018-03-20 10:09:37","status":"200"}
+2018-03-20 10:09:37 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511777568","IP":"198.190.246.14","address":"/do/deleteuser","time":"2018-03-20 10:09:37","status":"200"}
+2018-03-20 10:09:38 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511778071","IP":"125.28.253.170","address":"/do/createuser","time":"2018-03-20 10:09:38","status":"200"}
+2018-03-20 10:09:38 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511778573","IP":"223.166.207.212","address":"/do/productlist","time":"2018-03-20 10:09:38","status":"200"}
+2018-03-20 10:09:39 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511779076","IP":"215.32.26.206","address":"/do/userlist","time":"2018-03-20 10:09:39","status":"504"}
+2018-03-20 10:09:39 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511779578","IP":"27.86.167.213","address":"/do/createuser","time":"2018-03-20 10:09:39","status":"200"}
+2018-03-20 10:09:40 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511780083","IP":"65.223.188.142","address":"/do/userlist","time":"2018-03-20 10:09:40","status":"200"}
+2018-03-20 10:09:40 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511780586","IP":"222.81.221.219","address":"/do/deleteuser","time":"2018-03-20 10:09:40","status":"200"}
+2018-03-20 10:09:41 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511781088","IP":"155.226.88.51","address":"/do/createuser","time":"2018-03-20 10:09:41","status":"200"}
+2018-03-20 10:09:41 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511781591","IP":"82.64.95.80","address":"/do/deleteuser","time":"2018-03-20 10:09:41","status":"200"}
+2018-03-20 10:09:42 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511782093","IP":"242.205.7.9","address":"/do/purse/{id}","time":"2018-03-20 10:09:42","status":"200"}
+2018-03-20 10:09:42 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511782596","IP":"172.67.122.243","address":"/do/deleteuser","time":"2018-03-20 10:09:42","status":"200"}
+2018-03-20 10:09:43 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511783098","IP":"203.26.155.242","address":"/do/purse/{id}","time":"2018-03-20 10:09:43","status":"200"}
+2018-03-20 10:09:43 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511783601","IP":"32.51.250.232","address":"/do/deleteuser","time":"2018-03-20 10:09:43","status":"200"}
+2018-03-20 10:09:44 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511784103","IP":"8.129.247.169","address":"/do/deleteuser","time":"2018-03-20 10:09:44","status":"200"}
+2018-03-20 10:09:44 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511784606","IP":"88.137.22.113","address":"/do/deleteuser","time":"2018-03-20 10:09:44","status":"200"}
+2018-03-20 10:09:45 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511785108","IP":"21.27.144.73","address":"/do/deleteuser","time":"2018-03-20 10:09:45","status":"200"}
+2018-03-20 10:09:45 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511785611","IP":"148.240.113.40","address":"/do/deleteuser","time":"2018-03-20 10:09:45","status":"200"}
+2018-03-20 10:09:46 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511786113","IP":"81.130.108.255","address":"/do/productlist","time":"2018-03-20 10:09:46","status":"200"}
+2018-03-20 10:09:46 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511786616","IP":"74.92.159.147","address":"/do/deleteuser","time":"2018-03-20 10:09:46","status":"200"}
+2018-03-20 10:09:47 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511787116","IP":"96.186.103.18","address":"/do/purse/{id}","time":"2018-03-20 10:09:47","status":"200"}
+2018-03-20 10:09:47 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511787618","IP":"100.13.54.241","address":"/do/deleteuser","time":"2018-03-20 10:09:47","status":"200"}
+2018-03-20 10:09:48 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511788121","IP":"211.42.231.135","address":"/do/createuser","time":"2018-03-20 10:09:48","status":"200"}
+2018-03-20 10:09:48 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511788623","IP":"252.243.14.184","address":"/do/createuser","time":"2018-03-20 10:09:48","status":"200"}
+2018-03-20 10:09:49 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511789126","IP":"117.237.88.178","address":"/do/purse/{id}","time":"2018-03-20 10:09:49","status":"200"}
+2018-03-20 10:09:49 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511789628","IP":"78.131.37.41","address":"/do/userlist","time":"2018-03-20 10:09:49","status":"200"}
+2018-03-20 10:09:50 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511790128","IP":"128.228.190.198","address":"/do/userlist","time":"2018-03-20 10:09:50","status":"200"}
+2018-03-20 10:09:50 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511790631","IP":"64.183.201.23","address":"/do/productlist","time":"2018-03-20 10:09:50","status":"200"}
+2018-03-20 10:09:51 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511791136","IP":"194.224.244.76","address":"/do/createuser","time":"2018-03-20 10:09:51","status":"504"}
+2018-03-20 10:09:51 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511791641","IP":"4.237.219.163","address":"/do/deleteuser","time":"2018-03-20 10:09:51","status":"200"}
+2018-03-20 10:09:52 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511792143","IP":"235.187.216.228","address":"/do/purse/{id}","time":"2018-03-20 10:09:52","status":"200"}
+2018-03-20 10:09:52 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511792646","IP":"161.192.163.141","address":"/do/userlist","time":"2018-03-20 10:09:52","status":"200"}
+2018-03-20 10:09:53 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511793148","IP":"14.53.40.104","address":"/do/deleteuser","time":"2018-03-20 10:09:53","status":"200"}
+2018-03-20 10:09:53 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511793651","IP":"169.143.220.103","address":"/do/productlist","time":"2018-03-20 10:09:53","status":"200"}
+2018-03-20 10:09:54 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511794153","IP":"74.156.132.32","address":"/do/productlist","time":"2018-03-20 10:09:54","status":"200"}
+2018-03-20 10:09:54 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511794656","IP":"66.150.206.154","address":"/do/purse/{id}","time":"2018-03-20 10:09:54","status":"200"}
+2018-03-20 10:09:55 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511795158","IP":"162.232.25.137","address":"/do/userlist","time":"2018-03-20 10:09:55","status":"200"}
+2018-03-20 10:09:55 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511795658","IP":"184.198.224.136","address":"/do/createuser","time":"2018-03-20 10:09:55","status":"200"}
+2018-03-20 10:09:56 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511796161","IP":"13.95.64.126","address":"/do/deleteuser","time":"2018-03-20 10:09:56","status":"200"}
+2018-03-20 10:09:56 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511796663","IP":"172.181.97.125","address":"/do/deleteuser","time":"2018-03-20 10:09:56","status":"200"}
+2018-03-20 10:09:57 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511797166","IP":"201.39.3.201","address":"/do/productlist","time":"2018-03-20 10:09:57","status":"200"}
+2018-03-20 10:09:57 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511797668","IP":"134.184.125.33","address":"/do/deleteuser","time":"2018-03-20 10:09:57","status":"200"}
+2018-03-20 10:09:58 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511798171","IP":"61.151.131.62","address":"/do/productlist","time":"2018-03-20 10:09:58","status":"200"}
+2018-03-20 10:09:58 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511798673","IP":"249.167.253.22","address":"/do/purse/{id}","time":"2018-03-20 10:09:58","status":"200"}
+2018-03-20 10:09:59 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511799176","IP":"151.26.159.226","address":"/do/userlist","time":"2018-03-20 10:09:59","status":"500"}
+2018-03-20 10:09:59 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511799678","IP":"218.80.174.106","address":"/do/deleteuser","time":"2018-03-20 10:09:59","status":"200"}
+2018-03-20 10:10:00 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511800181","IP":"47.233.14.96","address":"/do/userlist","time":"2018-03-20 10:10:00","status":"200"}
+2018-03-20 10:10:00 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511800683","IP":"23.183.10.33","address":"/do/deleteuser","time":"2018-03-20 10:10:00","status":"503"}
+2018-03-20 10:10:01 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511801186","IP":"76.188.213.74","address":"/do/userlist","time":"2018-03-20 10:10:01","status":"200"}
+2018-03-20 10:10:01 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511801688","IP":"37.81.162.192","address":"/do/userlist","time":"2018-03-20 10:10:01","status":"200"}
+2018-03-20 10:10:02 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511802191","IP":"164.167.132.159","address":"/do/userlist","time":"2018-03-20 10:10:02","status":"200"}
+2018-03-20 10:10:02 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511802693","IP":"97.184.254.119","address":"/do/userlist","time":"2018-03-20 10:10:02","status":"200"}
+2018-03-20 10:10:03 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511803196","IP":"53.51.196.130","address":"/do/productlist","time":"2018-03-20 10:10:03","status":"200"}
+2018-03-20 10:10:03 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511803698","IP":"57.133.147.97","address":"/do/productlist","time":"2018-03-20 10:10:03","status":"200"}
+2018-03-20 10:10:04 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511804201","IP":"114.154.33.57","address":"/do/deleteuser","time":"2018-03-20 10:10:04","status":"200"}
+2018-03-20 10:10:04 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511804703","IP":"145.239.66.55","address":"/do/createuser","time":"2018-03-20 10:10:04","status":"200"}
+2018-03-20 10:10:05 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511805208","IP":"212.21.150.221","address":"/do/productlist","time":"2018-03-20 10:10:05","status":"200"}
+2018-03-20 10:10:05 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511805710","IP":"189.99.146.157","address":"/do/createuser","time":"2018-03-20 10:10:05","status":"200"}
+2018-03-20 10:10:06 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511806213","IP":"17.124.241.148","address":"/do/userlist","time":"2018-03-20 10:10:06","status":"200"}
+2018-03-20 10:10:06 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511806715","IP":"85.178.1.155","address":"/do/purse/{id}","time":"2018-03-20 10:10:06","status":"200"}
+2018-03-20 10:10:07 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511807218","IP":"14.168.116.7","address":"/do/purse/{id}","time":"2018-03-20 10:10:07","status":"200"}
+2018-03-20 10:10:07 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511807720","IP":"174.182.29.191","address":"/do/createuser","time":"2018-03-20 10:10:07","status":"200"}
+2018-03-20 10:10:08 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511808220","IP":"252.28.136.251","address":"/do/purse/{id}","time":"2018-03-20 10:10:08","status":"200"}
+2018-03-20 10:10:08 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511808723","IP":"151.118.188.250","address":"/do/deleteuser","time":"2018-03-20 10:10:08","status":"200"}
+2018-03-20 10:10:09 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511809225","IP":"118.142.230.97","address":"/do/deleteuser","time":"2018-03-20 10:10:09","status":"200"}
+2018-03-20 10:10:09 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511809725","IP":"195.244.210.157","address":"/do/purse/{id}","time":"2018-03-20 10:10:09","status":"200"}
+2018-03-20 10:10:10 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511810228","IP":"187.237.156.152","address":"/do/deleteuser","time":"2018-03-20 10:10:10","status":"200"}
+2018-03-20 10:10:10 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511810730","IP":"163.188.25.216","address":"/do/purse/{id}","time":"2018-03-20 10:10:10","status":"200"}
+2018-03-20 10:10:11 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511811233","IP":"185.82.162.192","address":"/do/deleteuser","time":"2018-03-20 10:10:11","status":"200"}
+2018-03-20 10:10:11 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511811735","IP":"216.40.195.190","address":"/do/purse/{id}","time":"2018-03-20 10:10:11","status":"200"}
+2018-03-20 10:10:12 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511812238","IP":"180.157.186.154","address":"/do/purse/{id}","time":"2018-03-20 10:10:12","status":"200"}
+2018-03-20 10:10:12 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511812738","IP":"230.127.212.183","address":"/do/userlist","time":"2018-03-20 10:10:12","status":"200"}
+2018-03-20 10:10:13 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511813240","IP":"164.240.56.40","address":"/do/userlist","time":"2018-03-20 10:10:13","status":"200"}
+2018-03-20 10:10:13 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511813743","IP":"36.199.26.135","address":"/do/createuser","time":"2018-03-20 10:10:13","status":"200"}
+2018-03-20 10:10:14 LogProduce [INFO] {"appname":"Masterapp","timestamp":"1521511814245","IP":"224.88.148.223","address":"/do/userlist","time":"2018-03-20 10:10:14","status":"200"}
+2018-03-20 10:55:11 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 10:55:12 LogProduce [INFO] main begin !!!!!
+2018-03-20 10:55:12 LogProduce [INFO] when you saw this ,next you will found something logs ,all logs are mark for needly to really!
+2018-03-20 10:55:12 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514512245","endingtime":"1521520067800","IP":"7.197.1.60","address":"/do/productlist","day":"2018-03-20 10:55:12","status":"200"}
+2018-03-20 10:55:12 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514512748","endingtime":"1521520068303","IP":"191.78.187.217","address":"/do/createuser","day":"2018-03-20 10:55:12","status":"200"}
+2018-03-20 10:55:13 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514513250","endingtime":"1521520068805","IP":"195.160.138.184","address":"/do/createuser","day":"2018-03-20 10:55:13","status":"200"}
+2018-03-20 10:55:13 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514513753","endingtime":"1521520069308","IP":"51.62.60.78","address":"/do/createuser","day":"2018-03-20 10:55:13","status":"200"}
+2018-03-20 10:55:14 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514514255","endingtime":"1521520069810","IP":"27.12.57.143","address":"/do/userlist","day":"2018-03-20 10:55:14","status":"200"}
+2018-03-20 10:55:14 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514514758","endingtime":"1521520070313","IP":"211.2.172.122","address":"/do/userlist","day":"2018-03-20 10:55:14","status":"200"}
+2018-03-20 10:55:15 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514515260","endingtime":"1521520070815","IP":"172.150.121.240","address":"/do/deleteuser","day":"2018-03-20 10:55:15","status":"200"}
+2018-03-20 10:55:15 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514515763","endingtime":"1521520071318","IP":"71.240.45.238","address":"/do/productlist","day":"2018-03-20 10:55:15","status":"200"}
+2018-03-20 10:55:16 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514516265","endingtime":"1521520071820","IP":"232.253.213.167","address":"/do/productlist","day":"2018-03-20 10:55:16","status":"200"}
+2018-03-20 10:55:16 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514516768","endingtime":"1521520072323","IP":"33.243.73.19","address":"/do/productlist","day":"2018-03-20 10:55:16","status":"200"}
+2018-03-20 10:55:17 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514517270","endingtime":"1521520072825","IP":"65.202.106.18","address":"/do/deleteuser","day":"2018-03-20 10:55:17","status":"200"}
+2018-03-20 10:55:17 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514517773","endingtime":"1521520073328","IP":"249.223.247.233","address":"/do/productlist","day":"2018-03-20 10:55:17","status":"200"}
+2018-03-20 10:55:18 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514518275","endingtime":"1521520073830","IP":"253.50.198.200","address":"/do/purse/{id}","day":"2018-03-20 10:55:18","status":"200"}
+2018-03-20 10:55:18 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514518778","endingtime":"1521520074333","IP":"117.139.249.92","address":"/do/userlist","day":"2018-03-20 10:55:18","status":"200"}
+2018-03-20 10:55:19 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514519280","endingtime":"1521520074835","IP":"50.29.244.179","address":"/do/productlist","day":"2018-03-20 10:55:19","status":"200"}
+2018-03-20 10:55:19 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514519783","endingtime":"1521520075338","IP":"177.242.214.19","address":"/do/purse/{id}","day":"2018-03-20 10:55:19","status":"200"}
+2018-03-20 10:55:20 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514520285","endingtime":"1521520075840","IP":"138.8.34.137","address":"/do/deleteuser","day":"2018-03-20 10:55:20","status":"200"}
+2018-03-20 10:55:20 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514520788","endingtime":"1521520076343","IP":"63.140.110.50","address":"/do/createuser","day":"2018-03-20 10:55:20","status":"200"}
+2018-03-20 10:55:21 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514521290","endingtime":"1521520076845","IP":"40.219.107.115","address":"/do/deleteuser","day":"2018-03-20 10:55:21","status":"200"}
+2018-03-20 10:55:21 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514521793","endingtime":"1521520077348","IP":"124.243.202.106","address":"/do/purse/{id}","day":"2018-03-20 10:55:21","status":"200"}
+2018-03-20 10:55:22 LogProduce [INFO] {"userIdMasterapp","beginningtime":"1521514522295","endingtime":"1521520077850","IP":"155.202.235.231","address":"/do/productlist","day":"2018-03-20 10:55:22","status":"200"}
+2018-03-20 10:56:08 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 10:56:09 LogProduce [INFO] main begin !!!!!
+2018-03-20 10:56:09 LogProduce [INFO] when you saw this ,next you will found something logs ,all logs are mark for needly to really!
+2018-03-20 10:56:09 LogProduce [INFO] {"userId":"Masterapp","beginningtime":"1521514569111","endingtime":"1521520124666","IP":"226.205.16.174","address":"/do/createuser","day":"2018-03-20 10:56:09","status":"200"}
+2018-03-20 10:56:09 LogProduce [INFO] {"userId":"Masterapp","beginningtime":"1521514569613","endingtime":"1521520125168","IP":"132.218.183.103","address":"/do/createuser","day":"2018-03-20 10:56:09","status":"200"}
+2018-03-20 10:56:10 LogProduce [INFO] {"userId":"Masterapp","beginningtime":"1521514570116","endingtime":"1521520125671","IP":"184.223.4.144","address":"/do/purse/{id}","day":"2018-03-20 10:56:10","status":"200"}
+2018-03-20 10:56:10 LogProduce [INFO] {"userId":"Masterapp","beginningtime":"1521514570618","endingtime":"1521520126173","IP":"251.149.146.151","address":"/do/productlist","day":"2018-03-20 10:56:10","status":"200"}
+2018-03-20 10:56:11 LogProduce [INFO] {"userId":"Masterapp","beginningtime":"1521514571121","endingtime":"1521520126676","IP":"80.47.241.142","address":"/do/deleteuser","day":"2018-03-20 10:56:11","status":"200"}
+2018-03-20 10:56:11 LogProduce [INFO] {"userId":"Masterapp","beginningtime":"1521514571623","endingtime":"1521520127178","IP":"57.252.237.79","address":"/do/purse/{id}","day":"2018-03-20 10:56:11","status":"200"}
+2018-03-20 10:56:12 LogProduce [INFO] {"userId":"Masterapp","beginningtime":"1521514572126","endingtime":"1521520127681","IP":"13.119.180.89","address":"/do/createuser","day":"2018-03-20 10:56:12","status":"200"}
+2018-03-20 10:56:12 LogProduce [INFO] {"userId":"Masterapp","beginningtime":"1521514572628","endingtime":"1521520128183","IP":"201.9.47.49","address":"/do/productlist","day":"2018-03-20 10:56:12","status":"200"}
+2018-03-20 10:56:13 LogProduce [INFO] {"userId":"Masterapp","beginningtime":"1521514573131","endingtime":"1521520128686","IP":"73.222.17.144","address":"/do/userlist","day":"2018-03-20 10:56:13","status":"200"}
+2018-03-20 10:56:13 LogProduce [INFO] {"userId":"Masterapp","beginningtime":"1521514573633","endingtime":"1521520129188","IP":"7.112.138.231","address":"/do/userlist","day":"2018-03-20 10:56:13","status":"200"}
+2018-03-20 10:56:14 LogProduce [INFO] {"userId":"Masterapp","beginningtime":"1521514574137","endingtime":"1521520129692","IP":"114.113.55.17","address":"/do/userlist","day":"2018-03-20 10:56:14","status":"200"}
+2018-03-20 10:57:44 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 10:57:44 ConsumerConfig [INFO] ConsumerConfig values: 
+	auto.commit.interval.ms = 1000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.174.101:9092]
+	check.crcs = true
+	client.id = 
+	connections.max.idle.ms = 540000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = testConsumer
+	heartbeat.interval.ms = 3000
+	interceptor.classes = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 305000
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 30000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+
+2018-03-20 10:57:45 ConsumerConfig [INFO] ConsumerConfig values: 
+	auto.commit.interval.ms = 1000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.174.101:9092]
+	check.crcs = true
+	client.id = consumer-1
+	connections.max.idle.ms = 540000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = testConsumer
+	heartbeat.interval.ms = 3000
+	interceptor.classes = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 305000
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 30000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+
+2018-03-20 10:57:45 AppInfoParser [INFO] Kafka version : 0.10.2.0
+2018-03-20 10:57:45 AppInfoParser [INFO] Kafka commitId : 576d93a8dc0cf421
+2018-03-20 10:57:45 NetworkClient [WARN] Error while fetching metadata with correlation id 2 : {flumeTest=LEADER_NOT_AVAILABLE}
+2018-03-20 10:57:45 AbstractCoordinator [INFO] Discovered coordinator hdp-node-03:9092 (id: 2147483644 rack: null) for group testConsumer.
+2018-03-20 10:57:47 AbstractCoordinator [INFO] Marking the coordinator hdp-node-03:9092 (id: 2147483644 rack: null) dead for group testConsumer
+2018-03-20 10:58:28 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 10:58:29 ConsumerConfig [INFO] ConsumerConfig values: 
+	auto.commit.interval.ms = 1000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.174.101:9092]
+	check.crcs = true
+	client.id = 
+	connections.max.idle.ms = 540000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = testConsumer
+	heartbeat.interval.ms = 3000
+	interceptor.classes = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 305000
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 30000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+
+2018-03-20 10:58:29 ConsumerConfig [INFO] ConsumerConfig values: 
+	auto.commit.interval.ms = 1000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.174.101:9092]
+	check.crcs = true
+	client.id = consumer-1
+	connections.max.idle.ms = 540000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = testConsumer
+	heartbeat.interval.ms = 3000
+	interceptor.classes = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 305000
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 30000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+
+2018-03-20 10:58:29 AppInfoParser [INFO] Kafka version : 0.10.2.0
+2018-03-20 10:58:29 AppInfoParser [INFO] Kafka commitId : 576d93a8dc0cf421
+2018-03-20 10:58:29 AbstractCoordinator [INFO] Discovered coordinator hdp-node-03:9092 (id: 2147483644 rack: null) for group testConsumer.
+2018-03-20 10:58:32 AbstractCoordinator [INFO] Marking the coordinator hdp-node-03:9092 (id: 2147483644 rack: null) dead for group testConsumer
+2018-03-20 10:59:13 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 10:59:14 ConsumerConfig [INFO] ConsumerConfig values: 
+	auto.commit.interval.ms = 1000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.174.101:9092]
+	check.crcs = true
+	client.id = 
+	connections.max.idle.ms = 540000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = testConsumer
+	heartbeat.interval.ms = 3000
+	interceptor.classes = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 305000
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 30000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+
+2018-03-20 10:59:14 ConsumerConfig [INFO] ConsumerConfig values: 
+	auto.commit.interval.ms = 1000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.174.101:9092]
+	check.crcs = true
+	client.id = consumer-1
+	connections.max.idle.ms = 540000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = testConsumer
+	heartbeat.interval.ms = 3000
+	interceptor.classes = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 305000
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 30000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+
+2018-03-20 10:59:14 AppInfoParser [INFO] Kafka version : 0.10.2.0
+2018-03-20 10:59:14 AppInfoParser [INFO] Kafka commitId : 576d93a8dc0cf421
+2018-03-20 10:59:14 AbstractCoordinator [INFO] Discovered coordinator hdp-node-03:9092 (id: 2147483644 rack: null) for group testConsumer.
+2018-03-20 10:59:17 AbstractCoordinator [INFO] Marking the coordinator hdp-node-03:9092 (id: 2147483644 rack: null) dead for group testConsumer
+2018-03-20 16:34:08 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 16:34:09 LogProduce [INFO] main begin !!!!!
+2018-03-20 16:34:09 LogProduce [INFO] when you saw this ,next you will found something logs ,all logs are mark for needly to really!
+2018-03-20 16:34:59 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 16:35:00 LogProduce [INFO] main begin !!!!!
+2018-03-20 16:35:00 LogProduce [INFO] when you saw this ,next you will found something logs ,all logs are mark for needly to really!
+2018-03-20 16:36:49 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 16:36:49 LogProduce [INFO] main begin !!!!!
+2018-03-20 16:36:49 LogProduce [INFO] when you saw this ,next you will found something logs ,all logs are mark for needly to really!
+2018-03-20 16:36:49 LogProduce [INFO] {"userId":"91","day":"2018-03-20 16:36:49","beginningtime":"1521535009750","endingtime":"1521535009841","status":"21"}
+2018-03-20 16:36:50 LogProduce [INFO] {"userId":"94","day":"2018-03-20 16:36:50","beginningtime":"1521535010253","endingtime":"1521535010347","status":"61"}
+2018-03-20 16:36:50 LogProduce [INFO] {"userId":"93","day":"2018-03-20 16:36:50","beginningtime":"1521535010757","endingtime":"1521535010850","status":"25"}
+2018-03-20 16:36:51 LogProduce [INFO] {"userId":"86","day":"2018-03-20 16:36:51","beginningtime":"1521535011262","endingtime":"1521535011348","status":"93"}
+2018-03-20 16:36:51 LogProduce [INFO] {"userId":"35","day":"2018-03-20 16:36:51","beginningtime":"1521535011765","endingtime":"1521535011800","status":"90"}
+2018-03-20 16:36:52 LogProduce [INFO] {"userId":"68","day":"2018-03-20 16:36:52","beginningtime":"1521535012265","endingtime":"1521535012333","status":"10"}
+2018-03-20 16:36:52 LogProduce [INFO] {"userId":"87","day":"2018-03-20 16:36:52","beginningtime":"1521535012768","endingtime":"1521535012855","status":"95"}
+2018-03-20 16:36:53 LogProduce [INFO] {"userId":"75","day":"2018-03-20 16:36:53","beginningtime":"1521535013272","endingtime":"1521535013347","status":"80"}
+2018-03-20 16:46:55 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 16:46:56 LogProduce [INFO] main begin !!!!!
+2018-03-20 16:46:56 LogProduce [INFO] when you saw this ,next you will found something logs ,all logs are mark for needly to really!
+2018-03-20 16:46:56 LogProduce [INFO] {"userId":"8","day":"2018-03-20 16:46:56","beginningtime":"1521535616396","endingtime":"1521535616445","data":"package":"com.browser8","activetime":"49" + "package":"com.browser49","activetime":"48"}
+2018-03-20 16:46:56 LogProduce [INFO] {"userId":"73","day":"2018-03-20 16:46:56","beginningtime":"1521535616899","endingtime":"1521535616977","data":"package":"com.browser73","activetime":"78" + "package":"com.browser78","activetime":"77"}
+2018-03-20 16:46:57 LogProduce [INFO] {"userId":"25","day":"2018-03-20 16:46:57","beginningtime":"1521535617404","endingtime":"1521535617449","data":"package":"com.browser25","activetime":"45" + "package":"com.browser45","activetime":"13"}
+2018-03-20 16:46:57 LogProduce [INFO] {"userId":"1","day":"2018-03-20 16:46:57","beginningtime":"1521535617907","endingtime":"1521535617937","data":"package":"com.browser1","activetime":"30" + "package":"com.browser30","activetime":"29"}
+2018-03-20 16:46:58 LogProduce [INFO] {"userId":"62","day":"2018-03-20 16:46:58","beginningtime":"1521535618411","endingtime":"1521535618431","data":"package":"com.browser62","activetime":"20" + "package":"com.browser20","activetime":"6"}
+2018-03-20 16:46:58 LogProduce [INFO] {"userId":"60","day":"2018-03-20 16:46:58","beginningtime":"1521535618914","endingtime":"1521535618977","data":"package":"com.browser60","activetime":"63" + "package":"com.browser63","activetime":"22"}
+2018-03-20 16:46:59 LogProduce [INFO] {"userId":"89","day":"2018-03-20 16:46:59","beginningtime":"1521535619417","endingtime":"1521535619508","data":"package":"com.browser89","activetime":"91" + "package":"com.browser91","activetime":"1"}
+2018-03-20 16:46:59 LogProduce [INFO] {"userId":"24","day":"2018-03-20 16:46:59","beginningtime":"1521535619919","endingtime":"1521535619967","data":"package":"com.browser24","activetime":"48" + "package":"com.browser48","activetime":"5"}
+2018-03-20 16:51:02 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 16:51:02 LogProduce [INFO] main begin !!!!!
+2018-03-20 16:51:02 LogProduce [INFO] when you saw this ,next you will found something logs ,all logs are mark for needly to really!
+2018-03-20 16:51:02 LogProduce [INFO] {"userId":"50","day":"2018-03-20 16:51:02","beginningtime":"1521535862571","endingtime":"1521535862670","data":"package":"com.browser99","activetime":"50" + "package":"com.browser99","activetime":"87"}
+2018-03-20 16:51:03 LogProduce [INFO] {"userId":"26","day":"2018-03-20 16:51:03","beginningtime":"1521535863074","endingtime":"1521535863164","data":"package":"com.browser90","activetime":"26" + "package":"com.browser90","activetime":"34"}
+2018-03-20 16:51:03 LogProduce [INFO] {"userId":"43","day":"2018-03-20 16:51:03","beginningtime":"1521535863579","endingtime":"1521535863665","data":"package":"com.browser86","activetime":"43" + "package":"com.browser86","activetime":"81"}
+2018-03-20 16:51:04 LogProduce [INFO] {"userId":"73","day":"2018-03-20 16:51:04","beginningtime":"1521535864083","endingtime":"1521535864168","data":"package":"com.browser85","activetime":"73" + "package":"com.browser85","activetime":"14"}
+2018-03-20 16:51:04 LogProduce [INFO] {"userId":"36","day":"2018-03-20 16:51:04","beginningtime":"1521535864586","endingtime":"1521535864590","data":"package":"com.browser4","activetime":"36" + "package":"com.browser4","activetime":"39"}
+2018-03-20 16:51:57 NettyAvroRpcClient [WARN] Using default maxIOWorkers
+2018-03-20 16:51:58 LogProduce [INFO] main begin !!!!!
+2018-03-20 16:51:58 LogProduce [INFO] when you saw this ,next you will found something logs ,all logs are mark for needly to really!
+2018-03-20 16:51:58 LogProduce [INFO] {"userId":"52","day":"2018-03-20 16:51:58","beginningtime":"1521535918316","endingtime":"1521535918355","data":"package":"com.browser39","activetime":"52" + "package":"com.browser11","activetime":"48"}
+2018-03-20 16:51:58 LogProduce [INFO] {"userId":"61","day":"2018-03-20 16:51:58","beginningtime":"1521535918827","endingtime":"1521535918855","data":"package":"com.browser28","activetime":"61" + "package":"com.browser52","activetime":"55"}
+2018-03-20 16:51:59 LogProduce [INFO] {"userId":"46","day":"2018-03-20 16:51:59","beginningtime":"1521535919332","endingtime":"1521535919398","data":"package":"com.browser66","activetime":"46" + "package":"com.browser12","activetime":"80"}
+2018-03-20 16:51:59 LogProduce [INFO] {"userId":"45","day":"2018-03-20 16:51:59","beginningtime":"1521535919836","endingtime":"1521535919889","data":"package":"com.browser53","activetime":"45" + "package":"com.browser61","activetime":"33"}
+2018-03-20 16:52:00 LogProduce [INFO] {"userId":"13","day":"2018-03-20 16:52:00","beginningtime":"1521535920339","endingtime":"1521535920366","data":"package":"com.browser27","activetime":"13" + "package":"com.browser97","activetime":"45"}
